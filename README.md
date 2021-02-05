@@ -13,3 +13,6 @@ Network administrator can use virtual resources that can be allocated and become
 ###Python
 the Pseudo-code nature of python is a term which is often used in programming and algorithm based fields. It is a methodology that allows the programmer to represent the implementation of an algorith. 
 What is an interpreted language vs. a compiled language? Compiled language is written as C or C++. Interpreted language takes the C or C++ and interprets into into binary code so the computer can understand it.
+
+### Career Exploration 
+
