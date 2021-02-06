@@ -15,4 +15,6 @@ the Pseudo-code nature of python is a term which is often used in programming an
 What is an interpreted language vs. a compiled language? Compiled language is written as C or C++. Interpreted language takes the C or C++ and interprets into into binary code so the computer can understand it.
 
 ### Career Exploration 
+####Career Central
+College central is a great website to find jobs near you for your major. It has a career portfolio to help you keep track of the jobs you can get. There also a sections to find internship jobs when you get out of college. There also job offers and on campus interviews just exclusively for Cuyahoga Community College students. Overall College central is a great website for anyone looking for a job out of college.
 
