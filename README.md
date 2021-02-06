@@ -17,4 +17,5 @@ What is an interpreted language vs. a compiled language? Compiled language is wr
 ### Career Exploration 
 #### Career Central
 College central is a great website to find jobs near you for your major. It has a career portfolio to help you keep track of the jobs you can get. There also a sections to find internship jobs when you get out of college. There also job offers and on campus interviews just exclusively for Cuyahoga Community College students. Overall College central is a great website for anyone looking for a job out of college.
-
+It majors make between 73,000 to 112,000 dollars anually. The BLS website is a great website if you want to know information on your career or any career that your interested in going into. It would provides information about what degrees or courses you need to obtain the job. It provides information about what you have to do during working there. It tells you how much the median pay for the career is. Overall its a great website if your confused about your careeer or you want to know more about the career that your interested in.
+#### Career Exploration 
